@@ -1,0 +1,3 @@
+[submodule "2019/chat"]
+	path = 2019/chat
+	url = git@github.com:frankchang0125/rakuten-chat.git
